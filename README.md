@@ -89,3 +89,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - [Ultralytics YOLO] for the YOLOv8 model
 - [OpenCV](https://opencv.org/) for computer vision capabilities
+- Reference https://dipankarmedh1.medium.com/real-time-object-detection-with-yolo-and-webcam-enhancing-your-computer-vision-skills-861b97c78993
